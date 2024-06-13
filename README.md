@@ -1,6 +1,6 @@
 ## Hola, soy Facundo 👋
 
-Estoy me inicie hace un año en la programación con el lenguaje C y ahora estoy dando los primeros pasos como Front-End.
+Me inicie hace un año en la programación con el lenguaje C y ahora estoy dando los primeros pasos como Front-End.
 
 ## 🚀 Sobre mí
 
