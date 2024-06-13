@@ -7,7 +7,7 @@ Me inicie hace un año en la programación con el lenguaje C y ahora estoy dando
 - 💻 Estudiante de Ingenieria en Sistemas
 - 👨‍🔬 Me mantengo aprendiendo nuevas tecnologías y mejorando mis habilidades.
 - 👥 Buscando colaborar en proyectos innovadores y desafiantes.
-- ⚡ Apasionado por el desarrollo de software.
+- 👨‍💻 Apasionado por el desarrollo de software.
 
 
 
